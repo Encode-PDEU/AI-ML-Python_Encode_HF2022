@@ -1,7 +1,7 @@
 
 # HACKTOBERFEST 2022
 
-Encode AI-Ml & python is a open source project which contains different projects of AI, ML and Python Mini projects etc. which makes your it easier for the students to learn and explore different projects in the field of AI-ML or Python. You can submit your projects or raise/claim issues on existing projects
+Encode AI-Ml & python is an open source project which contains different projects of AI, ML and Python Mini projects etc. which makes your it easier for the students to learn and explore different projects in the field of AI-ML or Python. You can submit your projects or raise/claim issues on existing projects
 
 
 ## Introduction
