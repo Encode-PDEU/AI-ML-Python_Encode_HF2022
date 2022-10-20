@@ -16,3 +16,15 @@ Trained on routine data (n = 231) covering multiple diseases,
 U-net compared to reference methods yields a DSC of 0.98 ± 0.03 versus 0.94 ± 0.12 (p = 0.024).
 
 Contact (ahmedmulla1910@gmail.com) for pre trianed weights
+
+## How to Contribute?
+
+- Take Existing Issues or create your own Issues!
+- Get Assigned with Issues
+- Fork the Repo, then Clone forked repo.
+- Create a Pull Request.
+- Add Screenshots/deployed link in your project repo README.md
+- [Contribution.md](https://github.com/Encode-PDEU/AI-ML_Encode_HF2022/blob/main/CONTRIBUTING.md)
+
+
+## HELP US OUT BY STARRING THIS REPOSITORY
